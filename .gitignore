@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+.idea/dictionaries/CRUMBL.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/PythonGuiTests.iml
+.idea/vcs.xml
+.idea/workspace.xml
